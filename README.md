@@ -14,3 +14,4 @@ The Multi-session SCR.R file contains all the code to run the analyses based on 
 <b>Repository</b>
 
 A secured version of the data and code as used in the published article can be found on Zenodo
+<a href="https://doi.org/10.5281/zenodo.11258877"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11258877.svg" alt="DOI"></a>
