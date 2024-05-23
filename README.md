@@ -1,4 +1,4 @@
-# polecam
+# Polecam
 Repository for data and code for the manuscript: T.R. Hofmeester, N. Erath, J. Mos & H.Thurfjell - Mustelid Mugshots: photographing facial masks of European polecats (<i>Mustela putorius</i>) for individual recognition and density estimation using camera traps. Mammal Research.
 
 <b>Abstract</b>
